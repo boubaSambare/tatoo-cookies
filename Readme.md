@@ -1,1 +1,1 @@
-# tatoo cookies
+# cookie module for prestashop store 
