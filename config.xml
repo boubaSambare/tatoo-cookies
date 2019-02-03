@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tatoocookies</name>
+	<displayName><![CDATA[tatoo cookies]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[banner for cookies for prestashop store  ,can be displayed in footer header ]]></description>
+	<author><![CDATA[Aboubacar Sambare]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
